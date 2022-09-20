@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/techicode" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="techicode" height="30" width="40" /> Codewars profile</a>
+<a href="https://www.codewars.com/users/techicode" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="techicode" height="40" width="40" /> Codewars profile</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
